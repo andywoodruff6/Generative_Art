@@ -18,3 +18,5 @@ function draw(x, y, width, height) {
   //The line is then drawn to the entire width and height
   
 draw(0, 0, size, size);
+
+//TEST
